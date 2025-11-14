@@ -1,0 +1,74 @@
+<Clientes>
+  <item>
+    <id>10</id>
+    <nombre>Maria Sanz</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>15</id>
+    <nombre>Pedro Martin</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>22</id>
+    <nombre>Maria Sanchez</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>18</id>
+    <nombre>Maria Jose Perez</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>19</id>
+    <nombre>Jesus Rodriguez</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>11</id>
+    <nombre>Fernando Alia</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>1</id>
+    <nombre>Alicia Sanz</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>2</id>
+    <nombre>Raquel Martinez</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>4</id>
+    <nombre>Dora Suela</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>5</id>
+    <nombre>Julio Reyes</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>33</id>
+    <nombre>Manuela Hidalgo</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+  <item>
+    <id>12</id>
+    <nombre>Daniel Sanchez</nombre>
+    <viajesContratados>0</viajesContratados>
+    <importeTotal>0.0</importeTotal>
+  </item>
+</Clientes>

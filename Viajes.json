@@ -1,0 +1,127 @@
+[ {
+  "id" : 14,
+  "descripcion" : "Alemania Oeste",
+  "fechaSalida" : "01/08/2025",
+  "pvp" : 1500.0,
+  "dias" : 7,
+  "viajeros" : 0
+}, {
+  "id" : 16,
+  "descripcion" : "China Gran Muralla",
+  "fechaSalida" : "25/09/2025",
+  "pvp" : 2100.0,
+  "dias" : 10,
+  "viajeros" : 0
+}, {
+  "id" : 18,
+  "descripcion" : "Croacia, Perla del Adriático",
+  "fechaSalida" : "01/08/2025",
+  "pvp" : 1100.0,
+  "dias" : 7,
+  "viajeros" : 0
+}, {
+  "id" : 20,
+  "descripcion" : "Crucero por el mar Mediterráneo",
+  "fechaSalida" : "01/08/2025",
+  "pvp" : 1340.0,
+  "dias" : 11,
+  "viajeros" : 0
+}, {
+  "id" : 22,
+  "descripcion" : "Cuba y Miami",
+  "fechaSalida" : "15/09/2025",
+  "pvp" : 900.0,
+  "dias" : 7,
+  "viajeros" : 0
+}, {
+  "id" : 26,
+  "descripcion" : "Moscu San Petersburgo",
+  "fechaSalida" : "10/08/2025",
+  "pvp" : 1900.0,
+  "dias" : 7,
+  "viajeros" : 0
+}, {
+  "id" : 28,
+  "descripcion" : "Noruega Mágica",
+  "fechaSalida" : "20/08/2025",
+  "pvp" : 2400.0,
+  "dias" : 9,
+  "viajeros" : 0
+}, {
+  "id" : 30,
+  "descripcion" : "Paises Bajos",
+  "fechaSalida" : "10/08/2025",
+  "pvp" : 1100.0,
+  "dias" : 7,
+  "viajeros" : 0
+}, {
+  "id" : 32,
+  "descripcion" : "Praga, Viena, Budapest",
+  "fechaSalida" : "20/08/2025",
+  "pvp" : 1500.0,
+  "dias" : 7,
+  "viajeros" : 0
+}, {
+  "id" : 34,
+  "descripcion" : "Costa Brava",
+  "fechaSalida" : "01/09/2025",
+  "pvp" : 650.0,
+  "dias" : 5,
+  "viajeros" : 0
+}, {
+  "id" : 35,
+  "descripcion" : "Costa de Almeria",
+  "fechaSalida" : "15/09/2025",
+  "pvp" : 600.0,
+  "dias" : 7,
+  "viajeros" : 0
+}, {
+  "id" : 45,
+  "descripcion" : "Paris romántico",
+  "fechaSalida" : "01/08/2025",
+  "pvp" : 1200.0,
+  "dias" : 7,
+  "viajeros" : 0
+}, {
+  "id" : 36,
+  "descripcion" : "Extremadura al completo",
+  "fechaSalida" : "25/09/2025",
+  "pvp" : 500.0,
+  "dias" : 6,
+  "viajeros" : 0
+}, {
+  "id" : 37,
+  "descripcion" : "Galicia Costa da Morte",
+  "fechaSalida" : "10/08/2025",
+  "pvp" : 1100.0,
+  "dias" : 10,
+  "viajeros" : 0
+}, {
+  "id" : 38,
+  "descripcion" : "Huelva",
+  "fechaSalida" : "20/08/2025",
+  "pvp" : 800.0,
+  "dias" : 7,
+  "viajeros" : 0
+}, {
+  "id" : 39,
+  "descripcion" : "Oropesa del Mar con balneario",
+  "fechaSalida" : "01/09/2025",
+  "pvp" : 1400.0,
+  "dias" : 8,
+  "viajeros" : 0
+}, {
+  "id" : 40,
+  "descripcion" : "Zaragoza y Teruel",
+  "fechaSalida" : "10/08/2025",
+  "pvp" : 450.0,
+  "dias" : 4,
+  "viajeros" : 0
+}, {
+  "id" : 24,
+  "descripcion" : "La Toscana",
+  "fechaSalida" : "01/09/2025",
+  "pvp" : 800.0,
+  "dias" : 5,
+  "viajeros" : 0
+} ]

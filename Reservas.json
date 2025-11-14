@@ -1,0 +1,129 @@
+[ {
+  "idViaje" : 14,
+  "idCliente" : 10,
+  "plazas" : 2
+}, {
+  "idViaje" : 14,
+  "idCliente" : 15,
+  "plazas" : 2
+}, {
+  "idViaje" : 14,
+  "idCliente" : 12,
+  "plazas" : 1
+}, {
+  "idViaje" : 14,
+  "idCliente" : 18,
+  "plazas" : 4
+}, {
+  "idViaje" : 16,
+  "idCliente" : 1,
+  "plazas" : 2
+}, {
+  "idViaje" : 16,
+  "idCliente" : 2,
+  "plazas" : 3
+}, {
+  "idViaje" : 16,
+  "idCliente" : 15,
+  "plazas" : 1
+}, {
+  "idViaje" : 16,
+  "idCliente" : 10,
+  "plazas" : 2
+}, {
+  "idViaje" : 16,
+  "idCliente" : 4,
+  "plazas" : 4
+}, {
+  "idViaje" : 20,
+  "idCliente" : 1,
+  "plazas" : 2
+}, {
+  "idViaje" : 20,
+  "idCliente" : 2,
+  "plazas" : 1
+}, {
+  "idViaje" : 20,
+  "idCliente" : 11,
+  "plazas" : 2
+}, {
+  "idViaje" : 20,
+  "idCliente" : 4,
+  "plazas" : 1
+}, {
+  "idViaje" : 20,
+  "idCliente" : 5,
+  "plazas" : 3
+}, {
+  "idViaje" : 37,
+  "idCliente" : 2,
+  "plazas" : 1
+}, {
+  "idViaje" : 37,
+  "idCliente" : 1,
+  "plazas" : 3
+}, {
+  "idViaje" : 37,
+  "idCliente" : 10,
+  "plazas" : 1
+}, {
+  "idViaje" : 24,
+  "idCliente" : 2,
+  "plazas" : 2
+}, {
+  "idViaje" : 24,
+  "idCliente" : 1,
+  "plazas" : 2
+}, {
+  "idViaje" : 24,
+  "idCliente" : 11,
+  "plazas" : 5
+}, {
+  "idViaje" : 24,
+  "idCliente" : 4,
+  "plazas" : 1
+}, {
+  "idViaje" : 24,
+  "idCliente" : 5,
+  "plazas" : 2
+}, {
+  "idViaje" : 24,
+  "idCliente" : 10,
+  "plazas" : 1
+}, {
+  "idViaje" : 24,
+  "idCliente" : 15,
+  "plazas" : 3
+}, {
+  "idViaje" : 24,
+  "idCliente" : 12,
+  "plazas" : 2
+}, {
+  "idViaje" : 24,
+  "idCliente" : 18,
+  "plazas" : 1
+}, {
+  "idViaje" : 37,
+  "idCliente" : 5,
+  "plazas" : 2
+}, {
+  "idViaje" : 38,
+  "idCliente" : 5,
+  "plazas" : 3
+}, {
+  "idViaje" : 22,
+  "idCliente" : 5,
+  "plazas" : 2
+}, {
+  "idViaje" : 138,
+  "idCliente" : 5,
+  "plazas" : 2
+}, {
+  "idViaje" : 220,
+  "idCliente" : 55,
+  "plazas" : 1
+}, {
+  "idViaje" : 30,
+  "idCliente" : 55,
+  "plazas" : 1
+} ]

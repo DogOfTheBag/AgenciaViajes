@@ -1,0 +1,146 @@
+<Viajes>
+  <item>
+    <id>14</id>
+    <descripcion>Alemania Oeste</descripcion>
+    <fechaSalida>01/08/2025</fechaSalida>
+    <pvp>1500.0</pvp>
+    <dias>7</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>16</id>
+    <descripcion>China Gran Muralla</descripcion>
+    <fechaSalida>25/09/2025</fechaSalida>
+    <pvp>2100.0</pvp>
+    <dias>10</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>18</id>
+    <descripcion>Croacia, Perla del Adriático</descripcion>
+    <fechaSalida>01/08/2025</fechaSalida>
+    <pvp>1100.0</pvp>
+    <dias>7</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>20</id>
+    <descripcion>Crucero por el mar Mediterráneo</descripcion>
+    <fechaSalida>01/08/2025</fechaSalida>
+    <pvp>1340.0</pvp>
+    <dias>11</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>22</id>
+    <descripcion>Cuba y Miami</descripcion>
+    <fechaSalida>15/09/2025</fechaSalida>
+    <pvp>900.0</pvp>
+    <dias>7</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>26</id>
+    <descripcion>Moscu San Petersburgo</descripcion>
+    <fechaSalida>10/08/2025</fechaSalida>
+    <pvp>1900.0</pvp>
+    <dias>7</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>28</id>
+    <descripcion>Noruega Mágica</descripcion>
+    <fechaSalida>20/08/2025</fechaSalida>
+    <pvp>2400.0</pvp>
+    <dias>9</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>30</id>
+    <descripcion>Paises Bajos</descripcion>
+    <fechaSalida>10/08/2025</fechaSalida>
+    <pvp>1100.0</pvp>
+    <dias>7</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>32</id>
+    <descripcion>Praga, Viena, Budapest</descripcion>
+    <fechaSalida>20/08/2025</fechaSalida>
+    <pvp>1500.0</pvp>
+    <dias>7</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>34</id>
+    <descripcion>Costa Brava</descripcion>
+    <fechaSalida>01/09/2025</fechaSalida>
+    <pvp>650.0</pvp>
+    <dias>5</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>35</id>
+    <descripcion>Costa de Almeria</descripcion>
+    <fechaSalida>15/09/2025</fechaSalida>
+    <pvp>600.0</pvp>
+    <dias>7</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>45</id>
+    <descripcion>Paris romántico</descripcion>
+    <fechaSalida>01/08/2025</fechaSalida>
+    <pvp>1200.0</pvp>
+    <dias>7</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>36</id>
+    <descripcion>Extremadura al completo</descripcion>
+    <fechaSalida>25/09/2025</fechaSalida>
+    <pvp>500.0</pvp>
+    <dias>6</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>37</id>
+    <descripcion>Galicia Costa da Morte</descripcion>
+    <fechaSalida>10/08/2025</fechaSalida>
+    <pvp>1100.0</pvp>
+    <dias>10</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>38</id>
+    <descripcion>Huelva</descripcion>
+    <fechaSalida>20/08/2025</fechaSalida>
+    <pvp>800.0</pvp>
+    <dias>7</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>39</id>
+    <descripcion>Oropesa del Mar con balneario</descripcion>
+    <fechaSalida>01/09/2025</fechaSalida>
+    <pvp>1400.0</pvp>
+    <dias>8</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>40</id>
+    <descripcion>Zaragoza y Teruel</descripcion>
+    <fechaSalida>10/08/2025</fechaSalida>
+    <pvp>450.0</pvp>
+    <dias>4</dias>
+    <viajeros>0</viajeros>
+  </item>
+  <item>
+    <id>24</id>
+    <descripcion>La Toscana</descripcion>
+    <fechaSalida>01/09/2025</fechaSalida>
+    <pvp>800.0</pvp>
+    <dias>5</dias>
+    <viajeros>0</viajeros>
+  </item>
+</Viajes>
