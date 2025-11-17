@@ -29,24 +29,18 @@ public class CrearFicheros {
 		XmlMapper xmlMapper = new XmlMapper();
 
 		// JSON
-		jsonMapper.writerWithDefaultPrettyPrinter()
-				.writeValue(new File(VIAJES_JSON), viajes);
+		jsonMapper.writerWithDefaultPrettyPrinter().writeValue(new File(VIAJES_JSON), viajes);
 
-		jsonMapper.writerWithDefaultPrettyPrinter()
-				.writeValue(new File(CLIENTES_JSON), clientes);
+		jsonMapper.writerWithDefaultPrettyPrinter().writeValue(new File(CLIENTES_JSON), clientes);
 
-		jsonMapper.writerWithDefaultPrettyPrinter()
-				.writeValue(new File(RESERVAS_JSON), reservas);
+		jsonMapper.writerWithDefaultPrettyPrinter().writeValue(new File(RESERVAS_JSON), reservas);
 
 		// XML
-		xmlMapper.writerWithDefaultPrettyPrinter()
-				.writeValue(new File(VIAJES_XML), viajes);
+		xmlMapper.writerWithDefaultPrettyPrinter().writeValue(new File(VIAJES_XML), viajes);
 
-		xmlMapper.writerWithDefaultPrettyPrinter()
-				.writeValue(new File(CLIENTES_XML), clientes);
+		xmlMapper.writerWithDefaultPrettyPrinter().writeValue(new File(CLIENTES_XML), clientes);
 
-		xmlMapper.writerWithDefaultPrettyPrinter()
-				.writeValue(new File(RESERVAS_XML), reservas);
+		xmlMapper.writerWithDefaultPrettyPrinter().writeValue(new File(RESERVAS_XML), reservas);
 	}
 
 	private static Map<Integer, Viaje> llenarViajes() {
