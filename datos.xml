@@ -1,0 +1,46 @@
+<ArrayList>
+  <item>
+    <ID Viaje>37</ID Viaje>
+    <Descripcion Viaje>Galicia Costa da Morte</Descripcion Viaje>
+    <Numero de viajeros>7</Numero de viajeros>
+    <Clientes>
+      <Clientes>
+        <ID>2</ID>
+        <Nombre>Raquel Martinez</Nombre>
+        <Viajes Contratados>4</Viajes Contratados>
+        <Importe Total>10340.0</Importe Total>
+      </Clientes>
+      <Clientes>
+        <ID>1</ID>
+        <Nombre>Alicia Sanz</Nombre>
+        <Viajes Contratados>4</Viajes Contratados>
+        <Importe Total>11780.0</Importe Total>
+      </Clientes>
+      <Clientes>
+        <ID>10</ID>
+        <Nombre>Maria Sanz</Nombre>
+        <Viajes Contratados>4</Viajes Contratados>
+        <Importe Total>9100.0</Importe Total>
+      </Clientes>
+      <Clientes>
+        <ID>5</ID>
+        <Nombre>Julio Reyes</Nombre>
+        <Viajes Contratados>5</Viajes Contratados>
+        <Importe Total>12020.0</Importe Total>
+      </Clientes>
+    </Clientes>
+  </item>
+  <item>
+    <ID Viaje>38</ID Viaje>
+    <Descripcion Viaje>Huelva</Descripcion Viaje>
+    <Numero de viajeros>3</Numero de viajeros>
+    <Clientes>
+      <Clientes>
+        <ID>5</ID>
+        <Nombre>Julio Reyes</Nombre>
+        <Viajes Contratados>5</Viajes Contratados>
+        <Importe Total>12020.0</Importe Total>
+      </Clientes>
+    </Clientes>
+  </item>
+</ArrayList>

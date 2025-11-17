@@ -1,61 +1,74 @@
-[ {
-  "id" : 10,
-  "nombre" : "Maria Sanz",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 15,
-  "nombre" : "Pedro Martin",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 22,
-  "nombre" : "Maria Sanchez",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 18,
-  "nombre" : "Maria Jose Perez",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 19,
-  "nombre" : "Jesus Rodriguez",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 11,
-  "nombre" : "Fernando Alia",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 1,
-  "nombre" : "Alicia Sanz",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 2,
-  "nombre" : "Raquel Martinez",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 4,
-  "nombre" : "Dora Suela",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 5,
-  "nombre" : "Julio Reyes",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 33,
-  "nombre" : "Manuela Hidalgo",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-}, {
-  "id" : 12,
-  "nombre" : "Daniel Sanchez",
-  "viajesContratados" : 0,
-  "importeTotal" : 0.0
-} ]
+{
+  "10" : {
+    "ID" : 10,
+    "Nombre" : "Maria Sanz",
+    "Viajes Contratados" : 8,
+    "Importe Total" : 18200.0
+  },
+  "15" : {
+    "ID" : 15,
+    "Nombre" : "Pedro Martin",
+    "Viajes Contratados" : 6,
+    "Importe Total" : 15000.0
+  },
+  "22" : {
+    "ID" : 22,
+    "Nombre" : "Maria Sanchez",
+    "Viajes Contratados" : 0,
+    "Importe Total" : 0.0
+  },
+  "18" : {
+    "ID" : 18,
+    "Nombre" : "Maria Jose Perez",
+    "Viajes Contratados" : 4,
+    "Importe Total" : 13600.0
+  },
+  "19" : {
+    "ID" : 19,
+    "Nombre" : "Jesus Rodriguez",
+    "Viajes Contratados" : 0,
+    "Importe Total" : 0.0
+  },
+  "11" : {
+    "ID" : 11,
+    "Nombre" : "Fernando Alia",
+    "Viajes Contratados" : 4,
+    "Importe Total" : 13360.0
+  },
+  "1" : {
+    "ID" : 1,
+    "Nombre" : "Alicia Sanz",
+    "Viajes Contratados" : 8,
+    "Importe Total" : 23560.0
+  },
+  "2" : {
+    "ID" : 2,
+    "Nombre" : "Raquel Martinez",
+    "Viajes Contratados" : 8,
+    "Importe Total" : 20680.0
+  },
+  "4" : {
+    "ID" : 4,
+    "Nombre" : "Dora Suela",
+    "Viajes Contratados" : 6,
+    "Importe Total" : 21080.0
+  },
+  "5" : {
+    "ID" : 5,
+    "Nombre" : "Julio Reyes",
+    "Viajes Contratados" : 10,
+    "Importe Total" : 24040.0
+  },
+  "33" : {
+    "ID" : 33,
+    "Nombre" : "Manuela Hidalgo",
+    "Viajes Contratados" : 0,
+    "Importe Total" : 0.0
+  },
+  "12" : {
+    "ID" : 12,
+    "Nombre" : "Daniel Sanchez",
+    "Viajes Contratados" : 4,
+    "Importe Total" : 6200.0
+  }
+}

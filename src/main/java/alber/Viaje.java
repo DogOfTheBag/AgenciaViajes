@@ -1,11 +1,19 @@
 package alber;
 
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Viaje {
+    @JsonProperty("ID")
     private int id;
+    @JsonProperty("Descripcion")
     private String descripcion;
+    @JsonProperty("Fecha Salida")
     private String fechaSalida;
+    @JsonProperty("Precio")
     private double pvp;
+    @JsonProperty("Dias")
     private int dias;
+    @JsonProperty("Numero de viajeros")
     private int viajeros;
 
     public Viaje(int id, String descripcion, String fechaSalida, double pvp, int dias, int viajeros) {
@@ -17,13 +25,7 @@ public class Viaje {
         this.viajeros = viajeros;
     }
 
-    public Viaje(int id, String descripcion, String fechaSalida, double pvp) {
-        this.id = id;
-        this.descripcion = descripcion;
-        this.fechaSalida = fechaSalida;
-        this.pvp = pvp;
-        this.dias = 0;
-        this.viajeros = 0;
+    public Viaje() {
     }
 
     public int getId() {
@@ -72,5 +74,11 @@ public class Viaje {
 
     public void setViajeros(int viajeros) {
         this.viajeros = viajeros;
+    }
+
+    @Override
+    public String toString() {
+        return "Viaje: " + id +
+                ", descripcion: '" + descripcion +  "', Numero de viajeros: " + viajeros;
     }
 }

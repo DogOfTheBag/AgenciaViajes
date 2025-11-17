@@ -1,4 +1,4 @@
-<Reservas>
+<ArrayList>
   <item>
     <idViaje>14</idViaje>
     <idCliente>10</idCliente>
@@ -159,4 +159,4 @@
     <idCliente>55</idCliente>
     <plazas>1</plazas>
   </item>
-</Reservas>
+</ArrayList>

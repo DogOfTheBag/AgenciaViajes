@@ -1,0 +1,36 @@
+[ {
+  "ID Viaje" : 37,
+  "Descripcion Viaje" : "Galicia Costa da Morte",
+  "Numero de viajeros" : 7,
+  "Clientes" : [ {
+    "ID" : 2,
+    "Nombre" : "Raquel Martinez",
+    "Viajes Contratados" : 4,
+    "Importe Total" : 10340.0
+  }, {
+    "ID" : 1,
+    "Nombre" : "Alicia Sanz",
+    "Viajes Contratados" : 4,
+    "Importe Total" : 11780.0
+  }, {
+    "ID" : 10,
+    "Nombre" : "Maria Sanz",
+    "Viajes Contratados" : 4,
+    "Importe Total" : 9100.0
+  }, {
+    "ID" : 5,
+    "Nombre" : "Julio Reyes",
+    "Viajes Contratados" : 5,
+    "Importe Total" : 12020.0
+  } ]
+}, {
+  "ID Viaje" : 38,
+  "Descripcion Viaje" : "Huelva",
+  "Numero de viajeros" : 3,
+  "Clientes" : [ {
+    "ID" : 5,
+    "Nombre" : "Julio Reyes",
+    "Viajes Contratados" : 5,
+    "Importe Total" : 12020.0
+  } ]
+} ]

@@ -11,6 +11,9 @@ public class Reserva {
         this.plazas = plazas;
     }
 
+    public Reserva() {
+    }
+
     public int getIdViaje() {
         return idViaje;
     }

@@ -1,0 +1,21 @@
+ID    DESCRIPCION                         FECHA        VIAJEROS   DIAS 
+-------------------------------------------------------------------------
+|14    Alemania Oeste                      01/08/2025   18         7    |
+|16    China Gran Muralla                  25/09/2025   24         10   |
+|18    Croacia, Perla del Adriático        01/08/2025   0          7    |
+|20    Crucero por el mar Mediterráneo     01/08/2025   18         11   |
+|22    Cuba y Miami                        15/09/2025   4          7    |
+|26    Moscu San Petersburgo               10/08/2025   0          7    |
+|28    Noruega Mágica                      20/08/2025   0          9    |
+|30    Paises Bajos                        10/08/2025   0          7    |
+|32    Praga, Viena, Budapest              20/08/2025   0          7    |
+|34    Costa Brava                         01/09/2025   0          5    |
+|35    Costa de Almeria                    15/09/2025   0          7    |
+|45    Paris romántico                     01/08/2025   0          7    |
+|36    Extremadura al completo             25/09/2025   0          6    |
+|37    Galicia Costa da Morte              10/08/2025   14         10   |
+|38    Huelva                              20/08/2025   6          7    |
+|39    Oropesa del Mar con balneario       01/09/2025   0          8    |
+|40    Zaragoza y Teruel                   10/08/2025   0          4    |
+|24    La Toscana                          01/09/2025   38         5    |
+-------------------------------------------------------------------------
