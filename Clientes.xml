@@ -2,14 +2,14 @@
   <10>
     <ID>10</ID>
     <Nombre>Maria Sanz</Nombre>
-    <Viajes Contratados>8</Viajes Contratados>
-    <Importe Total>18200.0</Importe Total>
+    <Viajes Contratados>28</Viajes Contratados>
+    <Importe Total>63700.0</Importe Total>
   </10>
   <15>
     <ID>15</ID>
     <Nombre>Pedro Martin</Nombre>
-    <Viajes Contratados>6</Viajes Contratados>
-    <Importe Total>15000.0</Importe Total>
+    <Viajes Contratados>21</Viajes Contratados>
+    <Importe Total>52500.0</Importe Total>
   </15>
   <22>
     <ID>22</ID>
@@ -20,8 +20,8 @@
   <18>
     <ID>18</ID>
     <Nombre>Maria Jose Perez</Nombre>
-    <Viajes Contratados>4</Viajes Contratados>
-    <Importe Total>13600.0</Importe Total>
+    <Viajes Contratados>14</Viajes Contratados>
+    <Importe Total>47600.0</Importe Total>
   </18>
   <19>
     <ID>19</ID>
@@ -32,32 +32,32 @@
   <11>
     <ID>11</ID>
     <Nombre>Fernando Alia</Nombre>
-    <Viajes Contratados>4</Viajes Contratados>
-    <Importe Total>13360.0</Importe Total>
+    <Viajes Contratados>14</Viajes Contratados>
+    <Importe Total>46760.0</Importe Total>
   </11>
   <1>
     <ID>1</ID>
     <Nombre>Alicia Sanz</Nombre>
-    <Viajes Contratados>8</Viajes Contratados>
-    <Importe Total>23560.0</Importe Total>
+    <Viajes Contratados>28</Viajes Contratados>
+    <Importe Total>82460.0</Importe Total>
   </1>
   <2>
     <ID>2</ID>
     <Nombre>Raquel Martinez</Nombre>
-    <Viajes Contratados>8</Viajes Contratados>
-    <Importe Total>20680.0</Importe Total>
+    <Viajes Contratados>28</Viajes Contratados>
+    <Importe Total>72380.0</Importe Total>
   </2>
   <4>
     <ID>4</ID>
     <Nombre>Dora Suela</Nombre>
-    <Viajes Contratados>6</Viajes Contratados>
-    <Importe Total>21080.0</Importe Total>
+    <Viajes Contratados>21</Viajes Contratados>
+    <Importe Total>73780.0</Importe Total>
   </4>
   <5>
     <ID>5</ID>
     <Nombre>Julio Reyes</Nombre>
-    <Viajes Contratados>10</Viajes Contratados>
-    <Importe Total>24040.0</Importe Total>
+    <Viajes Contratados>35</Viajes Contratados>
+    <Importe Total>84140.0</Importe Total>
   </5>
   <33>
     <ID>33</ID>
@@ -68,7 +68,7 @@
   <12>
     <ID>12</ID>
     <Nombre>Daniel Sanchez</Nombre>
-    <Viajes Contratados>4</Viajes Contratados>
-    <Importe Total>6200.0</Importe Total>
+    <Viajes Contratados>14</Viajes Contratados>
+    <Importe Total>21700.0</Importe Total>
   </12>
 </LinkedHashMap>

@@ -5,6 +5,7 @@ import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
 
 import java.io.File;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -21,6 +22,7 @@ public class Ejercicio1 {
         File viajesJSON = new File("Viajes.json");
         File viajesXML = new File("Viajes.xml");
         File reservasJSON = new File("Reservas.json");
+        File ficheroError = new File("error.txt");
         ObjectMapper mapperCliente = new ObjectMapper();
         ObjectMapper mapperViajes = new ObjectMapper();
         ObjectMapper mapperReservas = new ObjectMapper();
@@ -32,6 +34,8 @@ public class Ejercicio1 {
         Map<Integer,Cliente> clientesMap = mapperCliente.readValue(clienteJSON, new TypeReference<Map<Integer, Cliente>>() {});
         Map<Integer,Viaje> viajesMap = mapperViajes.readValue(viajesJSON, new TypeReference<Map<Integer, Viaje>>() {});
 
+        StringBuilder sb = new StringBuilder();
+
         for (Reserva r : reservas) {
             /*para esto hemos hecho los maps, para poder buscar clientes y viajes por id mas facilmente*/
             Viaje v = viajesMap.get(r.getIdViaje());
@@ -40,8 +44,10 @@ public class Ejercicio1 {
             //en caso de que no exista alguna de las dos chapamos para evitar errores
             if(v == null || c == null){
                 if (v == null)
+                    sb.append("No existe el viaje con ID: " + r.getIdViaje() + ". ").append(" Reserva: " + r.toString() + "\n");
                     System.out.println("No existe el viaje con ID: " + r.getIdViaje());
                 if(c == null)
+                    sb.append("No existe el cliente con ID: " + r.getIdCliente() + ". ").append(" Reserva: " + r.toString() + "\n");
                     System.out.println("No existe el cliente con ID: " + r.getIdCliente());
                 continue;
             }
@@ -60,6 +66,11 @@ public class Ejercicio1 {
 
         xmlMapperCliente.writerWithDefaultPrettyPrinter().writeValue(clienteXML,clientesMap);
         xmlMapperViaje.writerWithDefaultPrettyPrinter().writeValue(viajesXML,viajesMap);
+
+        FileWriter writer = new FileWriter(ficheroError);
+        writer.write(sb.toString());
+        writer.flush();
+        writer.close();
     }
 
 }

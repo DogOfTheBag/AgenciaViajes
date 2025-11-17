@@ -1,0 +1,4 @@
+No existe el viaje con ID: 138.  Reserva: (138, 5, 2)
+No existe el viaje con ID: 220.  Reserva: (220, 55, 1)
+No existe el cliente con ID: 55.  Reserva: (220, 55, 1)
+No existe el cliente con ID: 55.  Reserva: (30, 55, 1)

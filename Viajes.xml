@@ -5,7 +5,7 @@
     <Fecha Salida>01/08/2025</Fecha Salida>
     <Precio>1500.0</Precio>
     <Dias>7</Dias>
-    <Numero de viajeros>18</Numero de viajeros>
+    <Numero de viajeros>63</Numero de viajeros>
   </14>
   <16>
     <ID>16</ID>
@@ -13,7 +13,7 @@
     <Fecha Salida>25/09/2025</Fecha Salida>
     <Precio>2100.0</Precio>
     <Dias>10</Dias>
-    <Numero de viajeros>24</Numero de viajeros>
+    <Numero de viajeros>84</Numero de viajeros>
   </16>
   <18>
     <ID>18</ID>
@@ -29,7 +29,7 @@
     <Fecha Salida>01/08/2025</Fecha Salida>
     <Precio>1340.0</Precio>
     <Dias>11</Dias>
-    <Numero de viajeros>18</Numero de viajeros>
+    <Numero de viajeros>63</Numero de viajeros>
   </20>
   <22>
     <ID>22</ID>
@@ -37,7 +37,7 @@
     <Fecha Salida>15/09/2025</Fecha Salida>
     <Precio>900.0</Precio>
     <Dias>7</Dias>
-    <Numero de viajeros>4</Numero de viajeros>
+    <Numero de viajeros>14</Numero de viajeros>
   </22>
   <26>
     <ID>26</ID>
@@ -109,7 +109,7 @@
     <Fecha Salida>10/08/2025</Fecha Salida>
     <Precio>1100.0</Precio>
     <Dias>10</Dias>
-    <Numero de viajeros>14</Numero de viajeros>
+    <Numero de viajeros>49</Numero de viajeros>
   </37>
   <38>
     <ID>38</ID>
@@ -117,7 +117,7 @@
     <Fecha Salida>20/08/2025</Fecha Salida>
     <Precio>800.0</Precio>
     <Dias>7</Dias>
-    <Numero de viajeros>6</Numero de viajeros>
+    <Numero de viajeros>21</Numero de viajeros>
   </38>
   <39>
     <ID>39</ID>
@@ -141,6 +141,6 @@
     <Fecha Salida>01/09/2025</Fecha Salida>
     <Precio>800.0</Precio>
     <Dias>5</Dias>
-    <Numero de viajeros>38</Numero de viajeros>
+    <Numero de viajeros>133</Numero de viajeros>
   </24>
 </LinkedHashMap>

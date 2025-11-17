@@ -37,4 +37,10 @@ public class Reserva {
     public void setPlazas(int plazas) {
         this.plazas = plazas;
     }
+
+    @Override
+    public String toString() {
+                return "(" + idViaje +", " + idCliente +
+                ", " + plazas + ")";
+    }
 }
